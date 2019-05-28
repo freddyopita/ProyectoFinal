@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <linearGradient id="svg_2" spreadMethod="pad">
+   <stop offset="0" stop-color="#bf5f00"/>
+   <stop offset="1" stop-color="#40a0ff"/>
+  </linearGradient>
+  <linearGradient id="svg_14" x1="0" x2="1" y1="0" y2="0">
+   <stop offset="0" stop-color="#007f3f"/>
+   <stop offset="1" stop-color="#ff80c0"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="url(#svg_14)" font-family="serif" font-size="24" id="svg_1" stroke="url(#svg_2)" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" text-anchor="middle" transform="matrix(7.69767 0 0 2.89425 -550.36 -267.94)" x="94.645015" xml:space="preserve" y="120.348968">FRC</text>
+  <path d="m79.5,186.5c0.886665,0 1.873665,-0.014679 2.575996,0.114334c0.933975,0.171555 1.685715,0.449265 2.553337,0.768326c0.476547,0.175247 1.499207,0.581772 2.045334,0.805344c1.160194,0.47496 2.41346,1.004501 3.089165,1.314163c0.728569,0.333878 1.511787,0.717957 2.3535,1.168503c0.925865,0.49559 1.941612,1.055801 4.216003,2.496002c1.312866,0.831345 2.702415,1.776443 4.177498,2.782501c1.545044,1.053772 3.134125,2.156281 4.762497,3.277496c1.646614,1.133789 3.285263,2.282196 6.560005,4.440002c1.57283,1.036377 3.116104,2.00943 4.615494,2.942993c1.451363,0.903656 2.864174,1.764511 4.2285,2.600998c1.319328,0.808884 2.604843,1.575272 4.989334,3.122665c1.131493,0.734268 2.203156,1.469162 3.215996,2.195999c0.968307,0.694885 1.874298,1.378601 2.712006,2.052002c0.789307,0.634491 1.531708,1.229691 2.738663,2.418671c0.529694,0.521805 0.978653,1.034149 1.362,1.524002c0.351944,0.449738 0.646957,0.887283 0.894012,1.307999c0.230469,0.392487 0.426285,0.774094 0.743988,1.501328c0.149887,0.343079 0.283295,0.680099 0.404999,1.009506c0.118225,0.319992 0.224106,0.635117 0.315002,0.946503c0.089035,0.305023 0.174301,0.606659 0.279999,1.210663c0.052261,0.298676 0.084717,0.598358 0.109512,0.895493c0.024506,0.293579 0.038269,0.583618 0.046494,0.868515c0.008057,0.278778 0.009995,0.550659 0.010666,1.069321c0.00032,0.245499 0,0.484009 0,0.718506c0,0.233505 0,0.468994 0,0.709503c0,0.248489 0,0.507996 0,1.071991c0,0.309509 0,0.636002 0,0.976501c0,0.351501 0,0.710999 0,1.0755c0,0.366501 0,0.73201 0,1.447998c0,0.345673 0,0.685333 0,1.02301c0,0.685333 0,1.41066 0,2.643661c0,0.955994 0,1.471497 0,2.5625c0,0.569504 0.000244,1.151001 0,2.9375c-0.000092,0.59967 0.004364,1.197388 -0.010666,2.378662c-0.00737,0.579712 -0.036392,1.707611 -0.074661,2.250671c-0.107773,1.529602 -0.180084,2.000977 -0.350677,2.877335c-0.156464,0.803757 -0.329132,1.532593 -0.762665,2.721329c-0.337463,0.925308 -0.700851,1.747681 -0.800003,2.570679c-0.110062,0.913483 -0.802658,1.200653 -1.758499,1.201324c-0.922501,0.000641 -1.633499,0 -2.270828,0c-1.279327,0 -1.797333,0 -2.94133,0l-0.613998,0l-0.634003,0l-1.304001,0" fill="none" id="svg_3" stroke="url(#svg_2)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <polygon cx="112.5" cy="81.5" fill="none" id="svg_9" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="0" strokecolor="url(#svg_2)"/>
+  <polygon cx="137.5" cy="91.5" fill="none" id="svg_10" orient="point" point="5" points="137.5,91.5 137.5,91.5 137.5,91.5 137.5,91.5 137.5,91.5 137.5,91.5 137.5,91.5 137.5,91.5 137.5,91.5 137.5,91.5 137.5,91.5 137.5,91.5 " r="0" r2="0" shape="star" stroke-width="0" strokeWidth="0" strokecolor="none"/>
+  <polygon cx="137.5" cy="91.5" fill="#7fff00" id="svg_11" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="0" strokecolor="none"/>
+  <ellipse cx="65.5" cy="92.5" fill="url(#svg_14)" id="svg_17" rx="128" ry="1" stroke="url(#svg_2)" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+  <ellipse cx="187.5" cy="89.5" fill="url(#svg_14)" id="svg_18" rx="198" ry="8" stroke="url(#svg_2)" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+  <polygon cx="459.5" cy="119.5" edge="0" fill="url(#svg_14)" id="svg_37" orient="x" shape="regularPoly" sides="5" strokeWidth="0" strokecolor="url(#svg_2)"/>
+  <line fill="none" id="svg_41" stroke="url(#svg_2)" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" x1="115.5" x2="253.5" y1="172.5" y2="172.5"/>
+  <line fill="none" id="svg_43" stroke="url(#svg_2)" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" x1="107.5" x2="264.5" y1="172.5" y2="172.5"/>
+  <rect fill="#7f7f00" height="22" id="svg_47" stroke="url(#svg_2)" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" stroke-width="null" width="375" x="9.5" y="5.5"/>
+ </g>
+</svg>
